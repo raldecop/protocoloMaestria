@@ -1,4 +1,4 @@
-# protocoloMaestria
+# Plantilla Latex para Protocolo de Maestría
 Archivos Latex para protocolo de investigación de Maestría
 
 Ejemplo de documento que puede ser usado como base para construir tu protocolo de investigación de nivel Maestría para el Programa de Maestría en Ciencia e Ingeniería de la Computación de la UNAM.
